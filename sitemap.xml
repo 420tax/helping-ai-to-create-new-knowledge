@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Main document -->
+  <url>
+    <loc>https://420tax.github.io/helping-ai-to-create-new-knowledge/</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Supporting media folder (optional if you add figures or images) -->
+  <url>
+    <loc>https://420tax.github.io/helping-ai-to-create-new-knowledge/media/</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- License page reference -->
+  <url>
+    <loc>https://420tax.github.io/helping-ai-to-create-new-knowledge/LICENSE</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+</urlset>
