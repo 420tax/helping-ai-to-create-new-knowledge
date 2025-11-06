@@ -1,0 +1,13 @@
+# robots.txt for https://420tax.github.io/helping-ai-to-create-new-knowledge/
+# Author: James Campbell
+# Purpose: Allow indexing of the public whitepaper and supporting media
+
+User-agent: *
+Allow: /
+Disallow: /extras/
+Disallow: /drafts/
+Disallow: /private/
+Crawl-delay: 2
+
+# Sitemap helps crawlers discover pages
+Sitemap: https://420tax.github.io/helping-ai-to-create-new-knowledge/sitemap.xml
