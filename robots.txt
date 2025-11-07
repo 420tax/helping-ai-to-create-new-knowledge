@@ -10,4 +10,4 @@ Disallow: /private/
 Crawl-delay: 2
 
 # Sitemap helps crawlers discover pages
-Sitemap: https://420tax.github.io/helping-ai-to-create-new-knowledge/sitemap_index.xml
+Sitemap: https://420tax.github.io/helping-ai-to-create-new-knowledge/sitemap.xml
